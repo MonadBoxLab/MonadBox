@@ -1,1 +1,1 @@
-https://github.com/MetaCubeX/mihomo.git|v1.19.28|cbd11db1e13a75d8e680e0fe7742c95be4cba2be
+https://github.com/MetaCubeX/mihomo.git|v1.19.29|e26714a181ac0e2fa803453c0a8e9a9ce94e31cb
