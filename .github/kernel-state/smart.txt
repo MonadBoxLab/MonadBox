@@ -1,1 +1,1 @@
-https://github.com/vernesong/mihomo.git|Prerelease-Alpha|518713dea0425cbfaa494b7483940ef73cd8e39e
+https://github.com/vernesong/mihomo.git|Prerelease-Alpha|86ece76999099381aaee80cb1410e0a8ecd2eeac
